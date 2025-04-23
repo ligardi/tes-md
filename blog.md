@@ -1,5 +1,7 @@
 # Welcome to Diaz fetch md example
-This is an example of **Markdown** content being fetched and displayed dynamically.
+This is an example of **Markdown** content being fetched and displayed <strong>dynamically</strong>.
+
+<a href="https://github.com">Tes apakah HTML sanitized?</a>
 
 ## Features
 - Easy to use
