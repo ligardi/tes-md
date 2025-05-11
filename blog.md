@@ -16,5 +16,5 @@ This is an example of **Markdown** content being fetched and displayed <strong>d
 2. Convert it to HTML using a library like `marked.js`.
 3. Display it in a `<div>` element.
 
-
+<fancy-card tipe="warn">ini adalah contoh info box card</fancy-card>
 <share-button></share-button>
