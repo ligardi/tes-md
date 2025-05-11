@@ -1,4 +1,5 @@
 <div id="test2"></div>
+
 ## Welcome to Blog no 2
 
 This is an example of **Markdown** content being fetched and displayed dynamically.
