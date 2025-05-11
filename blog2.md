@@ -17,7 +17,3 @@ This is an example of **Markdown** content being fetched and displayed dynamical
 2. Convert it to HTML using a library like `marked.js`.
 3. Display it in a `<div>` element.
 
-<div>
-<share-button></share-button>
-</div>
-
