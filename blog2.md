@@ -1,3 +1,4 @@
+<div id="test2"></div>
 ## Welcome to Blog no 2
 
 This is an example of **Markdown** content being fetched and displayed dynamically.
@@ -7,16 +8,14 @@ This is an example of **Markdown** content being fetched and displayed dynamical
 - Lightweight
 - Supports Markdown formatting
 
+![image lorem picsum]("https://picsum.photos/600/1200")
+
 ### How It Works
 1. Fetch the **Markdown** file using JavaScript.
 2. Convert it to HTML using a library like `marked.js`.
 3. Display it in a `<div>` element.
 
 <div>
-  <fancy-card tipe="warn">ini adalah contoh info box card. kok bisa ada tag p di markdown parser ya... aneh aja</fancy-card>
-
-  <fancy-card tipe="tips">ini adalah contoh info box card. kok bisa ada tag p di markdown parser ya... aneh aja</fancy-card>
-
-  <fancy-card tipe="info">ini adalah contoh info box card. kok bisa ada tag p di markdown parser ya... aneh aja</fancy-card>
+<share-button></share-button>
 </div>
 
