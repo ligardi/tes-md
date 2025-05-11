@@ -14,11 +14,9 @@ This is an example of **Markdown** content being fetched and displayed dynamical
 
 <div>
   <fancy-card tipe="warn">ini adalah contoh info box card. kok bisa ada tag p di markdown parser ya... aneh aja</fancy-card>
-</div>
-<div>
+
   <fancy-card tipe="tips">ini adalah contoh info box card. kok bisa ada tag p di markdown parser ya... aneh aja</fancy-card>
-</div>
-<div>
+
   <fancy-card tipe="info">ini adalah contoh info box card. kok bisa ada tag p di markdown parser ya... aneh aja</fancy-card>
 </div>
 
