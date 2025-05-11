@@ -17,4 +17,3 @@ This is an example of **Markdown** content being fetched and displayed <strong>d
 3. Display it in a `<div>` element.
 
 <fancy-card tipe="warn">ini adalah contoh info box card</fancy-card>
-<share-button></share-button>
