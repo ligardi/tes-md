@@ -12,4 +12,4 @@ This is an example of **Markdown** content being fetched and displayed dynamical
 2. Convert it to HTML using a library like `marked.js`.
 3. Display it in a `<div>` element.
 
-<share-button></share-button>
+<fancy-card tipe="warn">ini adalah contoh info box card. kok bisa ada tag p di markdown parser ya... aneh aja</fancy-card>
